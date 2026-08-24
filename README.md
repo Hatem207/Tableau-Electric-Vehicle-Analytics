@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Dashboard]([Images/Overview.png](https://github.com/Hatem207/Tableau-Electric-Vehicle-Analytics/blob/main/Dashoard.png))
+![Dashboard](https://github.com/Hatem207/Tableau-Electric-Vehicle-Analytics/blob/main/Dashoard.png)
 
 This Tableau dashboard provides a comprehensive analysis of electric vehicle registrations and adoption trends. It helps users explore EV growth, vehicle types, manufacturers, models, electric range, CAFV eligibility, and geographic distribution through interactive dashboards and key performance indicators (KPIs).
 
